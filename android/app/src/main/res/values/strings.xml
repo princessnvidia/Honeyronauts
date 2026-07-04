@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">honeyronauts</string>
+    <string name="title_activity_main">honeyronauts</string>
+    <string name="package_name">com.vio.honeyronauts</string>
+    <string name="custom_url_scheme">com.vio.honeyronauts</string>
+</resources>
