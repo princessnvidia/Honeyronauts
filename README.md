@@ -5,7 +5,7 @@ An open-source prototype for dream journaling, sleep tracking and future lucid d
 Honeyronauts is an experimental application designed as the software foundation of a future DIY lucid dreaming mask. It combines dream logging, sleep analytics and a modular architecture intended to interface with external hardware for sleep-stage detection and dream cueing.
 
 <p align="center">
-  <img src="docs/demo.gif" alt="Honeyronauts Demo" width="100%">
+  <img src="docs/demo.gif" alt="Honeyronauts Demo" height="80px">
 </p>
 
 ---
