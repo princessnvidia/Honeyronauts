@@ -7,7 +7,7 @@ Honeyronauts is designed as the software foundation of a future DIY lucid dreami
 ---
 
 <p align="center">
-  <img src="docs/demo.gif" alt="Honeyronauts Demo" width="60%">
+  <img src="docs/demo.gif" alt="Honeyronauts Demo" width="50%">
 </p>
 
 ---
